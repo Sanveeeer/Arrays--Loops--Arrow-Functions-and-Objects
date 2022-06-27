@@ -1,0 +1,27 @@
+# Arrays--Loops--Arrow-Functions-and-Objects
+
+- Arrays Exercise 1: Breakfast 
+- Arrays Exercise 2: Last Value 
+- Arrays Exercise 3: Music 
+- Arrays Exercise 4: Sort 
+- Loops Exercise 1: Counting 
+- Loops Exercise 2: Tasks 
+- Loops Exercise 3: Last Loop Value 
+- Loops Exercise 4: Even Numbers 
+- Loops Exercise 5: Replace “for” 
+- Loops Exercise 6: Sum 
+- Strings || exercise 1: addFullStop 
+- Strings || exercise 2: Capitalize 
+- ForEach Exercise 1: Favourite Foods 
+- ForEach Exercise 2: Sum 
+- ForEach Exercise 3: Product 
+- ForEach Exercise 4: Student Grades 
+- Join Exercise 1: Names 
+- Join Exercise 2: to CSV 
+- Map Exercise 1: Miles Converter 
+- Map/filter Exercise 2: User input ages 
+- Filter Exercise: canVote 
+- Reduce Exercise 1: Sum 
+- Reduce Exercise 2: Product 
+- Objects Exercise 1: Spacecraft 
+- Exercise Errors!  
